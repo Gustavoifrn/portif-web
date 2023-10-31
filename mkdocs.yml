@@ -4,6 +4,7 @@ site_url: https://gustavoifrn.github.io/portif-web/
 
 # Repositório
 repo_url: https://github.com/Gustavoifrn/portif-web
+repo_name: Gustavoifrn/portif-web
 
 # Para publicação no servidor web local
 #site_dir: /var/www/html
