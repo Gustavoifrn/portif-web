@@ -1,5 +1,9 @@
-site_name: Nome de seu site
-site_author: Seu Nome completo
+site_name: Resumos para prova
+site_author: Gustavo Fellipe
+site_url: https://gustavoifrn.github.io/portif-web/
+
+# Repositório
+repo_url: https://github.com/Gustavoifrn/portif-web
 
 # Para publicação no servidor web local
 #site_dir: /var/www/html
@@ -7,6 +11,8 @@ site_author: Seu Nome completo
 theme:
   name: material
   language: pt
+  features:
+    - content.action.edit
 
 # Ativa extensões do Markdown (Ex.: Emojis)
 markdown_extensions:
